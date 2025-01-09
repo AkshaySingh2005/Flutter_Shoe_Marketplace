@@ -20,14 +20,16 @@ An e-commerce Flutter application showcasing shoes, complete with intuitive UI, 
 - Add items to cart and proceed to checkout.
 
 ## Screenshots
+
 ### Home Screen
-![Home Screen](screenshots/home.png)
+<div align="center">
+  <img src="https://github.com/AkshaySingh2005/Flutter_Shoe_Marketplace/blob/main/Screenshot%202025-01-09%20190720.png" alt="Home Screen" width="350" height="600">
+</div>
 
-### Product Details
-![Product Details](screenshots/product_details.png)
-
-### Cart
-![Cart Screen](screenshots/cart.png)
+### Product Details and Cart Page
+| Product Details | Cart Page |
+|------------------|-----------|
+| <div style="padding: 10px;"><img src="https://github.com/AkshaySingh2005/Flutter_Shoe_Marketplace/blob/main/Screenshot%202025-01-09%20190740.png" alt="Product Details" width="350" height="600"></div> | <div style="padding: 10px;"><img src="https://github.com/AkshaySingh2005/Flutter_Shoe_Marketplace/blob/main/Screenshot%202025-01-09%20190815.png" alt="Cart Page" width="350" height="600"></div> |
 
 ## Contributing
 Contributions are welcome. Submit pull requests or open issues.
